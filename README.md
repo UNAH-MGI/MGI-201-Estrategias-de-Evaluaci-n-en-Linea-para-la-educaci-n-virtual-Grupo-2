@@ -25,12 +25,7 @@ Explorar, analizar y proponer estrategias eficaces de evaluación en línea apli
 
 ## 📅 Cronograma del Proyecto
 
-| Fase                  | Actividades clave                         | Fecha límite |
-|-----------------------|-------------------------------------------|--------------|
-| Planificación         | Revisión bibliográfica y asignación roles | 20/06/2025   |
-| Desarrollo            | Elaboración de contenidos                 | 27/06/2025   |
-| Revisión y edición    | Revisión cruzada y ajustes finales        | 10/07/2025   |
-| Presentación          | Entrega y exposición final del proyecto   | 12/07/2025   |
+https://trello.com/b/MGLkORRL/proyecto-de-e-learning
 
 ## 📌 Licencia
 
