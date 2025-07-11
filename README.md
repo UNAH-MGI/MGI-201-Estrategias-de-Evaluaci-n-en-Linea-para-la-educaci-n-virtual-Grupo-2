@@ -10,12 +10,12 @@ Este repositorio forma parte del trabajo académico desarrollado en la asignatur
 
 Explorar, analizar y proponer estrategias eficaces de evaluación en línea aplicables a entornos de educación virtual, apoyadas en herramientas tecnológicas actuales y buenas prácticas pedagógicas.
 
-## 👥 Integrantes del Equipo               Maestria                     Correo Institucional
+## 👥 Integrantes del Equipo         -           Maestria             -        Correo Institucional
 
-- Victor Manuel Aguilar Suazo  Maestria Gestion Informatica UNAH      victor.aguilar@unah.edu.hn
-- Jose Luis Reyes              Maestria Gestion Informatica UNAH      Jlreyesl@unah.hn
-- Ileana Patricia Banegas Cruz Maestria Gestion Informatica UNAH      Ipbanegas@unah.hn
-- Andrea Emilia Rivera Borjas  Maestria Gestion Informatica UNAH      ariverab@unah.hn
+- Victor Manuel Aguilar Suazo    -   Maestria Gestion Informatica UNAH   -   victor.aguilar@unah.edu.hn
+- Jose Luis Reyes                -   Maestria Gestion Informatica UNAH   -   Jlreyesl@unah.hn
+- Ileana Patricia Banegas Cruz   -   Maestria Gestion Informatica UNAH   -   Ipbanegas@unah.hn
+- Andrea Emilia Rivera Borjas    -   Maestria Gestion Informatica UNAH   -   ariverab@unah.hn
 
 ## 🗂️ Contenido del Repositorio
 
