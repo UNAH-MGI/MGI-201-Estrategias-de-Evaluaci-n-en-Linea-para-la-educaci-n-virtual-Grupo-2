@@ -12,10 +12,10 @@ Explorar, analizar y proponer estrategias eficaces de evaluación en línea apli
 
 ## 👥 Integrantes del Equipo         -           Maestria             -        Correo Institucional
 
-- Victor Manuel Aguilar Suazo    -   Maestria Gestion Informatica UNAH   -   victor.aguilar@unah.edu.hn
-- Jose Luis Reyes                -   Maestria Gestion Informatica UNAH   -   Jlreyesl@unah.hn
-- Ileana Patricia Banegas Cruz   -   Maestria Gestion Informatica UNAH   -   Ipbanegas@unah.hn
 - Andrea Emilia Rivera Borjas    -   Maestria Gestion Informatica UNAH   -   ariverab@unah.hn
+- Ileana Patricia Banegas Cruz   -   Maestria Gestion Informatica UNAH   -   Ipbanegas@unah.hn
+- Jose Luis Reyes Lopez          -   Maestria Gestion Informatica UNAH   -   Jlreyesl@unah.hn
+- Victor Manuel Aguilar Suazo    -   Maestria Gestion Informatica UNAH   -   victor.aguilar@unah.edu.hn
 
 ## 🗂️ Contenido del Repositorio
 
