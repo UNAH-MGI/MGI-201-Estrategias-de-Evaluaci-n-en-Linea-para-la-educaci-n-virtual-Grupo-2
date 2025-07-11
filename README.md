@@ -23,7 +23,7 @@ Explorar, analizar y proponer estrategias eficaces de evaluación en línea apli
 - 🧠 Investigación bibliográfica  
 - 📊 Presentaciones (PowerPoint / Canva)  
 - 🧪 Ejemplos de instrumentos de evaluación en línea  
-- 🛠️ Herramientas recomendadas (KGemeni, ChapGpt, Copilot, Marking.ia, gradescode, Yippity, Copilot Education etc.)
+- 🛠️ Herramientas recomendadas (Gemeni, ChapGpt, Copilot, Marking.ia, gradescode, Yippity, Copilot Education etc.)
 
 ## 📅 Cronograma del Proyecto
 
